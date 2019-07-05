@@ -17,6 +17,11 @@ body{
     background-position: center;
 }
 
+#par{
+    font-size: 40px;
+    margin-left: 22px;
+}
+
 #card-container{
     position: relative;
     background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(assets/CAT.jpeg);
